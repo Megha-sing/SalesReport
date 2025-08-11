@@ -19,7 +19,8 @@ This dashboard helps visualize key sales metrics and trends, enabling data-drive
 ## 📷 Dashboard Preview
 <img width="508" height="287" alt="Screenshot 2025-08-11 162109" src="https://github.com/user-attachments/assets/991eda03-5007-4626-b423-de51b81b1763" />
 <img width="1013" height="567" alt="image" src="https://github.com/user-attachments/assets/88416573-bec0-446b-a369-e8216497da72" />
-<img width="1013" height="567" alt="Screenshot 2025-08-11 162235" src="https://github.com/user-attachments/assets/96db2f8c-635f-42c9-b8b4-1eea95997c5f" />
+<img width="1013" height="565" alt="Screenshot 2025-08-11 162203" src="https://github.com/user-attachments/assets/274fc8b2-29de-4187-bfb6-faa7d88bb220" />
+<img width="1016" height="573" alt="Screenshot 2025-08-11 162107" src="https://github.com/user-attachments/assets/f712d870-3296-4dc1-88cd-36faadab9eef" />
 
 
 ## 📂 Files in This Repository
