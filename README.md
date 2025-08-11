@@ -17,7 +17,9 @@ This dashboard helps visualize key sales metrics and trends, enabling data-drive
 - DAX for KPI calculations
 
 ## 📷 Dashboard Preview
+<img width="508" height="287" alt="Screenshot 2025-08-11 162109" src="https://github.com/user-attachments/assets/991eda03-5007-4626-b423-de51b81b1763" />
 <img width="1013" height="567" alt="image" src="https://github.com/user-attachments/assets/88416573-bec0-446b-a369-e8216497da72" />
+<img width="1013" height="567" alt="Screenshot 2025-08-11 162235" src="https://github.com/user-attachments/assets/96db2f8c-635f-42c9-b8b4-1eea95997c5f" />
 
 
 ## 📂 Files in This Repository
