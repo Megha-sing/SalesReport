@@ -14,19 +14,18 @@ This dashboard helps visualize key sales metrics and trends, enabling data-drive
 ## 🛠 Tech Stack
 - Power BI Desktop
 - Power Query (Data Cleaning)
-- DAX for KPI calculations
 
 ## 📷 Dashboard Preview
 <img width="508" height="287" alt="Screenshot 2025-08-11 162109" src="https://github.com/user-attachments/assets/991eda03-5007-4626-b423-de51b81b1763" />
 <img width="1013" height="567" alt="image" src="https://github.com/user-attachments/assets/88416573-bec0-446b-a369-e8216497da72" />
 <img width="1013" height="565" alt="Screenshot 2025-08-11 162203" src="https://github.com/user-attachments/assets/274fc8b2-29de-4187-bfb6-faa7d88bb220" />
-<img width="1016" height="573" alt="Screenshot 2025-08-11 162107" src="https://github.com/user-attachments/assets/f712d870-3296-4dc1-88cd-36faadab9eef" />
+<img width="1311" height="667" alt="image" src="https://github.com/user-attachments/assets/b08c3181-7d23-4682-865d-26383d1b9f9e" />
+
 
 
 ## 📂 Files in This Repository
 - `SalesDashboard.pbix` → Editable Power BI project file
 - `SalesDashboard.pdf` → Static export of the dashboard
-- `screenshots/` → Dashboard images
 
 
 ## 📥 How to Use
