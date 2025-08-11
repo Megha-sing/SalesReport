@@ -17,17 +17,14 @@ This dashboard helps visualize key sales metrics and trends, enabling data-drive
 - DAX for KPI calculations
 
 ## 📷 Dashboard Preview
-![Region Sales](screenshots/region-sales.png)
-![Segment Sales](screenshots/segment-sales.png)
-![Subcategory Sales](screenshots/subcategory-sales.png)
+<img width="1013" height="567" alt="image" src="https://github.com/user-attachments/assets/88416573-bec0-446b-a369-e8216497da72" />
+
 
 ## 📂 Files in This Repository
 - `SalesDashboard.pbix` → Editable Power BI project file
 - `SalesDashboard.pdf` → Static export of the dashboard
 - `screenshots/` → Dashboard images
 
-## 🎥 Demo Video
-[Watch the Dashboard Walkthrough](YOUR_VIDEO_LINK)
 
 ## 📥 How to Use
 1. Download `SalesDashboard.pbix`
