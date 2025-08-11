@@ -33,5 +33,4 @@ This dashboard helps visualize key sales metrics and trends, enabling data-drive
 2. Open in [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
 3. Explore visuals and interact with slicers/filters
 
----
-*Developed by Megha Singh*
+
